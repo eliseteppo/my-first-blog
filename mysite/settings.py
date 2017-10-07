@@ -25,7 +25,7 @@ SECRET_KEY = 'ury7l$u3&61b7_3a=71+x=#v#06p#tc=c+j&*udbatu-%20+u!'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '<eliseteppo>.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'eliseteppo.pythonanywhere.com']
 
 
 # Application definition
